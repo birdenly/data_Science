@@ -1,2 +1,2 @@
-# data_Science
-repo for my data science studys
+# Data Science Studies
+Repo for my data science studies
